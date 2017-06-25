@@ -1,0 +1,24 @@
+form{
+  border: 1px solid black;
+  width: 350px;
+}
+#labels, #inputs{
+  display: inline-block;
+  vertical-align: top;
+}
+#labels p{
+  margin: 0;
+  line-height: 19px;
+  margin: 2.5px 10px;
+}
+input{
+  display: block;
+  margin-left: 50px;
+}
+button{
+  margin: 2.5px 10px;
+}
+.message{
+  margin: 2.5px 10px;
+  color: red;
+}
